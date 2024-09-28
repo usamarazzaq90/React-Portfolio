@@ -28,9 +28,9 @@
   },
   "aboutData": {
     "imgLink": "/images/section/about.jpg",
-    "cvPdf": "/images/Resume.pdf",
+    "cvPdf": "/images/Usama_Razzaq_Resume.pdf",
     "title": "Hi There! I'm Usama Razzaq.",
-    "subtitle": "React Developer",
+    "subtitle": "Software Developer",
     "text": "Result-driven Front-End Developer with a strong foundation in React.js, HTML, CSS, and JavaScript. I'm focused on building responsive and interactive UI/UX.",
     "details": [
       {
